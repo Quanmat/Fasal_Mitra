@@ -93,7 +93,7 @@ Ensures transparency and accountability across the supply chain.
 - Protection of farmer rights.
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Backend:** Django REST Framework, Flask (private)
