@@ -7,6 +7,7 @@ This repository is **only for demonstration purposes** (sample incomplete code o
 
 ## Live Demo
 
+[Video demo](https://www.youtube.com/watch?v=6uK2ITrSC5Y&list=PLmZ0Mk4crWnNbyGfLfFv7qtezXNHalOeg&index=2)
 [View the demo site](https://fasalmitra-delta.vercel.app/)
 
 ---
