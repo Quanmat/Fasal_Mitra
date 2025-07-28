@@ -1,4 +1,4 @@
-# Assured Contract Farming Platform (Demo)
+# Fasal-Mitra - Assured Contract Farming Platform (Demo)
 
 **Disclaimer:**  
 This repository is **only for demonstration purposes** (sample incomplete code only). The full production code is private but **available on request** (for verification purposes).
