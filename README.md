@@ -1,6 +1,5 @@
 # Fasal-Mitra - Assured Contract Farming Platform
 
-**Introduction**  
 Introducing Fasal Mitra, a SIH 24 finalist Project - A comprehensive contract farming platform enabling secure farmer-to-company agreements with identity verification, digitally signed contracts, and regulatory compliance workflows.
 
 ---
