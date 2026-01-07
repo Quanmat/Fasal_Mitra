@@ -1,7 +1,7 @@
-# Fasal-Mitra - Assured Contract Farming Platform (Demo)
+# Fasal-Mitra - Assured Contract Farming Platform
 
-**Disclaimer:**  
-This repository is **only for demonstration purposes** (sample incomplete code only). The full production code is private but **available on request** (for verification purposes).
+**Introduction**  
+Introducing Fasal Mitra, a SIH 24 finalist Project - A comprehensive contract farming platform enabling secure farmer-to-company agreements with identity verification, digitally signed contracts, and regulatory compliance workflows.
 
 ---
 
